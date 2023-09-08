@@ -1,0 +1,16 @@
+{
+  "name": "bajaj-challenge",
+  "version": "1.0.0",
+  "description": "bajaj challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arief shaik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "keywords": []
+}
